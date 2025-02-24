@@ -5,3 +5,6 @@ High Complexity & Chaos: Hard to reverse without knowing octave jumps.
 Scalability & Flexibility: Works for encryption, hashing, key exchange, and ZKPs.
 Quantum-Resistant: Not based on integer factorization or discrete logs.
 Self-Optimizing: Recursive structures allow for adaptive security mechanisms.
+
+I upload an Octave encryption code. You can colaborate forward to make it better...
+THank you
